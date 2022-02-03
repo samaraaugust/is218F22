@@ -12,5 +12,5 @@ Just Run:
 
 docker compose up --build to get it to run and go to locahost to see the site.
 
-# Screenshot of system running
+# Screenshot of Running Program
 <img src="screenshots/Python_Setup_Github_Samara_Augustin.png" alt="screenshot of program running"/>
